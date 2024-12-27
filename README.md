@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abijithbalachandran&show_icons=true&locale=en&layout=compact" alt="abijithbalachandran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abijithbalachandran&show_icons=true&locale=en" alt="abijithbalachandran" /></p>
+
 
 
