@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbijithBalachandran](https://github.com/AbijithBalachandran)
 
-- 💬 Ask me about **MongoDB , Node.js , Express.js , Angular.js , Postgresql , TypeScript , HTML and CSS**
+- 💬 Ask me about **MongoDB , Node.js , Express.js , Angular.js , Postgresql , TypeScript ,React, HTML and CSS**
 
 - 📫 How to reach me **abijithpbalachandran@gmail.com**
 
